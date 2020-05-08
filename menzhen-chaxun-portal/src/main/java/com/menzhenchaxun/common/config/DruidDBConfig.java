@@ -1,4 +1,4 @@
-package com.menzhenchaxun.common.config;
+/*package com.menzhenchaxun.common.config;
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;
 import com.alibaba.druid.support.http.WebStatFilter;
@@ -14,9 +14,9 @@ import org.springframework.context.annotation.Primary;
 import javax.sql.DataSource;
 import java.sql.SQLException;
 
-/**
+*//**
  * Created by PrimaryKey on 17/2/4.
- */
+ *//*
 @SuppressWarnings("AlibabaRemoveCommentedCode")
 @Configuration
 public class DruidDBConfig {
@@ -130,3 +130,4 @@ public class DruidDBConfig {
     }
 }
 
+*/

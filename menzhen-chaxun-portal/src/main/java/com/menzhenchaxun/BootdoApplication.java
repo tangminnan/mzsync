@@ -10,7 +10,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableTransactionManagement
 @ServletComponentScan
-@MapperScan("com.yihuitong.*.dao")
+@MapperScan("com.menzhenchaxun.*.dao")
 @SpringBootApplication
 public class BootdoApplication extends  SpringBootServletInitializer{
 	@Override

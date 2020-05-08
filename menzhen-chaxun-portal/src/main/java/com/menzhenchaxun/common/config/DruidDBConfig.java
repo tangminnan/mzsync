@@ -20,8 +20,8 @@ import java.sql.SQLException;
 @SuppressWarnings("AlibabaRemoveCommentedCode")
 @Configuration
 public class DruidDBConfig {
-    private Logger logger = LoggerFactory.getLogger(DruidDBConfig.class);
-    @Value("${spring.datasource.url}")
+  //  private Logger logger = LoggerFactory.getLogger(DruidDBConfig.class);
+   /* @Value("${spring.datasource.url}")
     private String dbUrl;
 
     @Value("${spring.datasource.username}")
@@ -127,6 +127,6 @@ public class DruidDBConfig {
         filterRegistrationBean.addInitParameter("principalSessionName","USER_SESSION");
         filterRegistrationBean.addInitParameter("DruidWebStatFilter","/*");
         return filterRegistrationBean;
-    }
+    }*/
 }
 

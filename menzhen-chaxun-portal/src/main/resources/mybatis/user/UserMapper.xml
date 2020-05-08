@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.yihuitong.owneruser.dao.OwnerUserDao">
+<mapper namespace="com.menzhenchaxun.owneruser.dao.OwnerUserDao">
 
-	<select id="get" resultType="com.yihuitong.owneruser.domain.OwnerUserDO">
+	<select id="get" resultType="com.menzhenchaxun.owneruser.domain.OwnerUserDO">
 		select `id`,`user_id`,`open_id`,`nickname`,sign_name,`password`,`phone`,`heard_url`,`name`,balance_ios,`register_time`,`balance`,`login_time`,`update_time`,`delete_flag`,`username`,`sex`,`birthday`,login_user_flag from t_user where id = #{value}
 	</select>
 	
-	<select id="getbyname" resultType="com.yihuitong.owneruser.domain.OwnerUserDO">
+	<select id="getbyname" resultType="com.menzhenchaxun.owneruser.domain.OwnerUserDO">
 		select `id`,`user_id`,`open_id`,`nickname`,`password`,sign_name,`phone`,`heard_url`,`name`,balance_ios,`register_time`,`balance`,`login_time`,`update_time`,`delete_flag`,`username`,`sex`,`birthday`,login_user_flag from t_user where username = #{value}
 	</select>
 	
-	<select id="getByOpenid" resultType="com.yihuitong.owneruser.domain.OwnerUserDO">
+	<select id="getByOpenid" resultType="com.menzhenchaxun.owneruser.domain.OwnerUserDO">
 		select `id`,`user_id`,`open_id`,`nickname`,`password`,sign_name,`phone`,`heard_url`,`name`,balance_ios,`register_time`,`balance`,balance_ios,`login_time`,`update_time`,`delete_flag`,`username`,`sex`,`birthday`,login_user_flag from t_user where open_id = #{value}
 	</select>
 	
-	<select id="getByphone" resultType="com.yihuitong.owneruser.domain.OwnerUserDO">
+	<select id="getByphone" resultType="com.menzhenchaxun.owneruser.domain.OwnerUserDO">
 		SELECT
 			`id`,
 			`user_id`,
@@ -43,7 +43,7 @@
 		AND (open_id IS NULL or open_id ='')
 	</select>
 
-	<select id="list" resultType="com.yihuitong.owneruser.domain.OwnerUserDO">
+	<select id="list" resultType="com.menzhenchaxun.owneruser.domain.OwnerUserDO">
 		select `id`,`user_id`,`open_id`,`nickname`,`password`,`phone`,sign_name,`heard_url`,`name`,`register_time`,`balance`,`login_time`,`update_time`,`delete_flag`,`username`,`sex`,`birthday`,login_user_flag from t_user
         <where>  
 		  		  <if test="id != null and id != ''"> and id = #{id} </if>
@@ -101,7 +101,7 @@
 		  		</where>
 	</select>
 	 
-	<insert id="save" parameterType="com.yihuitong.owneruser.domain.OwnerUserDO" useGeneratedKeys="true" keyProperty="id">
+	<insert id="save" parameterType="com.menzhenchaxun.owneruser.domain.OwnerUserDO" useGeneratedKeys="true" keyProperty="id">
 		insert into t_user
 		(
 			`user_id`, 
@@ -144,7 +144,7 @@
 		)
 	</insert>
 	
-	<update id="update" parameterType="com.yihuitong.owneruser.domain.OwnerUserDO">
+	<update id="update" parameterType="com.menzhenchaxun.owneruser.domain.OwnerUserDO">
 		update t_user 
 		<set>
 			<if test="userId != null">`user_id` = #{userId}, </if>

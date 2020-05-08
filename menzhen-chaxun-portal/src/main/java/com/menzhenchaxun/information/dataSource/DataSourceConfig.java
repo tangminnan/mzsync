@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 
 @Configuration
-@MapperScan(basePackages = "com.xinshineng.information.dao.*", sqlSessionFactoryRef = "SqlSessionFactory")
+@MapperScan(basePackages = "com.menzhenchaxun.information.dao.*", sqlSessionFactoryRef = "SqlSessionFactory")
 public class DataSourceConfig {
 	
 	//读取主数据源

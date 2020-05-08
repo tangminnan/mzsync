@@ -10,13 +10,13 @@ import com.menzhenchaxun.information.dataSource.DataSourceType.DataBaseType;
 @Component
 public class DataSourceAop {
 		
-	 	@Before("execution(* com.xinshineng.information.service.menzhen.service.impl..*.*(..))")
+	 	@Before("execution(* com.menzhenchaxun.information.service.menzhen.service.impl..*.*(..))")
 	    public void setDataSource1test01() {
 	        System.err.println("test01业务");
 	        DataSourceType.setDataBaseType(DataBaseType.TEST01);
 	    }
 
-	    @Before("execution(* com.xinshineng.information.service.shujuchaxun.service.impl..*.*(..))")
+	    @Before("execution(* com.menzhenchaxun.information.service.shujuchaxun.service.impl..*.*(..))")
 	    public void setDataSource2test02() {
 	        System.err.println("test02业务");
 	        DataSourceType.setDataBaseType(DataBaseType.TEST02);

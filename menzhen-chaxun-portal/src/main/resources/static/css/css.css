@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* 禁用iPhone中Safari的字号自动调整 */
+html {-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;}
+/* 去除iPhone中默认的input样式  清除苹果浏览器的圆角表单*/
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+input{-webkit-appearance:none; resize: none;outline: none;}
+
+/* 图片自适应 */
+img {
+max-width: 100%;
+height: auto;
+width: 45%;
+width:auto\9; /* ie8 */
+-ms-interpolation-mode:bicubic;/*为了照顾ie图片缩放失真*/
+}
+/* 初始化 */
+*{margin:0; padding:0; border:none;box-sizing:border-box;}
+body{max-width:750px;margin:0 auto;color:#333;font-family: Microsoft YaHei,Tahoma,Arial,sans-serif;}
+em,i{font-style: normal;}
+a{text-decoration:none; color:#333;}
+a:hover{ text-decoration:none;}
+ul,ol,li{list-style:none;}
+h1, h2, h3, h4, h5, h6{ font-size:100%;font-weight: normal;}
+.fl{float:left;}
+.fr{float:right;}
+.font-30{font-size: .3rem;}
+.bg-gray{background:#f4f4f4;}
+.bg-white{background:#fff;}
+input.btn{width: 5rem;height: 1rem;display: block;margin:.5rem auto;background:#15ca5e;font-size: .36rem;color:#fff;border-radius:.5rem;}
+
+.Top{width: 100%;height: .88rem;line-height: .88rem;text-align: center;background:#15ca5e;color:#fff;font-size:.36rem;position: relative;}
+.Top em{width: .24rem;height: 100%;background:url(/img/goback.png) no-repeat center;background-size:contain;position: absolute;left:.22rem;}
+.Top a{width: .4rem;height:100%;position:absolute;right:.25rem;background:url(/img/mune.png) no-repeat center;background-size:contain;}
+
+.box{font-size: .36rem;background: #fff;padding:0 .38rem;margin-bottom:.22rem;overflow: hidden;}
+.box h3{line-height: 1rem;}
+.box input{width: .36rem;height: .36rem;margin-right:.22rem;}
+.box input:checked + label{color:#15ca5e;}
+.box input[type="radio"]{background:url(/img/single.png) no-repeat center;-webkit-background-size: contain;background-size: contain;}
+.box input[type="radio"]:checked{background-image: url(/img/single_ed.png);}
+.box dl dd{margin:.4rem 0;}
+.box input[type="checkbox"]{background:url(/img/checkbox.png) no-repeat center;-webkit-background-size: contain;background-size: contain;}
+.box input[type="checkbox"]:checked{background-image: url(/img/checkbox_ed.png);}
+.box ul{overflow: hidden;}
+.box li{float: left;width: 50%;text-align: center;padding:0 1%;}
+
+.kaoshi{font-size: .36rem;}
+.kaoshi p{overflow: hidden;border-bottom:1px solid #f4f4f4;padding:0 .3rem;line-height:1rem;margin-bottom:.2rem;}
+.kaoshi p span{float: left;}
+.kaoshi p i{float:right;background:url(/img/right.png) no-repeat left center;-webkit-background-size:.36rem .36rem;background-size:.36rem .36rem;padding-left:.5rem;}
+.kaoshi p i.wrong{color:#fc345a;background-image: url(/img/wrong.png);}
+
+.kaoshi dl{background: #fff;margin-bottom:.15rem;padding-bottom:.3rem;}
+.kaoshi dl dt{padding:0 .3rem;}
+.kaoshi dl dd{margin-top: .4rem;padding:0 .3rem;}
+.kaoshi dl dd.on{color:#15ca5e;}
+.kaoshi input[type="radio"]{margin-right:.3rem;width: .12rem;height: .3rem;}
+.kaoshi input[type="radio"]:checked{background:url(/img/this.png);-webkit-background-size: contain;background-size: contain;}
+.kaoshi dl textarea{resize:none;border-top:1px solid #f4f4f4;background: none;width: 100%;height: 2rem;padding:.2rem .2rem 0;font-size: .28rem;margin-top:.3rem;font-family:"微软雅黑";}
+
+.kaoshi dd em{margin-left:.5rem;}
+.kaoshi dd em i{color:#fc345a;}
+.kaoshi dd span i{color:#15ca5e;}
+.kaoshi dd span{margin-left:1.3rem;}
+
+.result{padding:.3rem;}
+.Congratulations{border-bottom:1px solid #bfbfbf;text-align: center;}
+.Congratulations p{margin-bottom:.5rem;}
+.Congratulations p span{color:#14ca5e;}
+.Congratulations p span em{font-size:.9rem;padding:0 .2rem;}
+.result li{float: left;width: 50%;text-align: center;font-size: .32rem;background:url(/img/right.png) no-repeat top center; -webkit-background-size:.63rem .63rem;background-size:.63rem .63rem;padding-top:.95rem;margin:.88rem 0 1.3rem;}
+.result li.error{background-image: url(/img/wrong.png);}
+.result li span{color:#15ca5e;}
+.result li em{color:#fc345a;}
+
+

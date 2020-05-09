@@ -1,4 +1,5 @@
 package com.menzhenchaxun.common.config;
+/*
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;
 import com.alibaba.druid.support.http.WebStatFilter;
@@ -13,6 +14,10 @@ import org.springframework.context.annotation.Primary;
 
 import javax.sql.DataSource;
 import java.sql.SQLException;
+
+*/
+
+import org.springframework.context.annotation.Configuration;
 
 /**
  * Created by PrimaryKey on 17/2/4.

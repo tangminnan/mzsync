@@ -11,9 +11,9 @@ spring:
       url: jdbc:sqlserver://192.168.0.123:1433;DatabaseName=jnsem
       username: sa
       password: Pengsheng5180
-    menzhen:
+    menzhen:   
       type: com.alibaba.druid.pool.DruidDataSource
-      driverClassName: com.mysql.jdbc.Driver
+      driverClassName: com.mysql.jdbc.Driver  
       url: jdbc:mysql://119.3.238.84:3306/menzhen?useUnicode=true&characterEncoding=utf8&useSSL=false
       username: root
       password: Dm202003
@@ -39,6 +39,7 @@ spring:
       connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
       # 合并多个DruidDataSource的监控数据
       #useGlobalDataSourceStat: true
+
   redis:
       host: localhost
       port: 6379

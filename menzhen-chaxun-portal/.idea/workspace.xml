@@ -11,92 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Log.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/common/annotation/Log.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BootdoApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/BootdoApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/common/TaskMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskDO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/common/domain/TaskDO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1276">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WelcomeJob.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/common/task/WelcomeJob.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OwnerUserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/owneruser/dao/OwnerUserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceAop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/dataSource/DataSourceAop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/dataSource/DataSourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="56" />
+            <state relative-caret-position="214">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -105,9 +25,209 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="110">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenZhenController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/controller/MenZhenController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="58" column="45" lean-forward="false" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdkDynamicAopProxy.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2640">
+              <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+              <folding>
+                <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1588901608599" expanded="false" signature="157:776" ph="..." />
+                <marker date="1588901608599" expanded="true" signature="1212:1549" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="1579:1590" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="1647:1653" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="1707:2118" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="2203:3026" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="3114:5969" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="6011:6786" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="6814:6922" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menzhenDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/dao/menzhen/menzhenDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menzhenMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/information/menzhen/menzhenMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvisedSupport.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/AdvisedSupport.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6754">
+              <caret line="357" column="0" lean-forward="false" selection-start-line="357" selection-start-column="0" selection-end-line="357" selection-end-column="0" />
+              <folding>
+                <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1588901608599" expanded="false" signature="157:1134" ph="..." />
+                <marker date="1588901608599" expanded="true" signature="1667:1987" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="2036:2099" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="2135:2146" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2191:2197" ph=" }" />
+                <marker date="1588901608599" expanded="false" signature="2239:2250" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2306:2312" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="2373:2467" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="2510:2521" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2546:2552" ph=" }" />
+                <marker date="1588901608599" expanded="false" signature="2606:2617" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2677:2683" ph=" }" />
+                <marker date="1588901608599" expanded="false" signature="2721:2732" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2774:2780" ph=" }" />
+                <marker date="1588901608599" expanded="false" signature="2833:2844" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2875:2881" ph=" }" />
+                <marker date="1588901608599" expanded="false" signature="2917:2928" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2952:2958" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="3040:3188" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="3245:3256" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="3288:3294" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="3347:3663" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="3709:4081" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="4132:4143" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="4179:4185" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="4232:4323" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="4378:4674" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="4716:4727" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="4752:4758" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="4804:4890" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="4971:5166" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="5218:5412" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="5481:6343" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="6385:6500" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="6584:6925" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="6975:6986" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="7040:7046" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="7106:7882" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="7958:8251" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="8341:8854" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="8902:9006" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="9063:9074" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="9095:9101" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="9170:9254" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="9332:9848" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="9923:10116" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="10156:10459" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="10510:10845" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="10903:11276" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="11383:11784" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="11820:11831" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="11856:11862" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="11927:12028" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="12144:12808" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="12856:13257" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="13353:13425" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="13466:13477" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="13500:13506" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="13537:14029" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="14042:14107" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="14208:15116" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="14329:14421" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="14467:14626" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="14657:14672" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="14693:14703" ph=" }" />
+                <marker date="1588901608599" expanded="false" signature="14737:14752" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="14782:14792" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="14860:15110" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonTargetSource.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1588901608599" expanded="false" signature="154:305" ph="..." />
+                <marker date="1588901608599" expanded="true" signature="535:638" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="676:687" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="717:723" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="754:765" ph=" { " />
+                <marker date="1588901608599" expanded="true" signature="784:790" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="837:844" ph="{}" />
+                <marker date="1588901608599" expanded="false" signature="875:886" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="898:904" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="946:1273" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="1300:1311" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="1341:1347" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="1378:1495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AopUtils.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding>
+                <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1588901608599" expanded="false" signature="155:1109" ph="..." />
+                <marker date="1588901608599" expanded="true" signature="1166:1173" ph="{}" />
+                <marker date="1588901608599" expanded="true" signature="1227:1374" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="1435:1529" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="1585:1673" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="1735:2151" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="2236:2831" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="2888:2899" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="2945:2951" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="3010:3021" ph=" { " />
+                <marker date="1588901608599" expanded="true" signature="3069:3075" ph=" }" />
+                <marker date="1588901608599" expanded="false" signature="3134:3145" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="3193:3199" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="3259:3378" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="3464:3629" ph="{...}" />
+                <marker date="1588901608599" expanded="false" signature="3700:3711" ph=" { " />
+                <marker date="1588901608599" expanded="false" signature="3751:3757" ph=" }" />
+                <marker date="1588901608599" expanded="true" signature="3855:5435" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="5511:5572" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="5674:6072" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="6180:7150" ph="{...}" />
+                <marker date="1588901608599" expanded="true" signature="7270:7850" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,6 +239,7 @@
       <find>DataBaseType</find>
       <find>TYPE</find>
       <find>sql</find>
+      <find>getMemberCard</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -137,12 +258,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/dataSource/DataSourceConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/common/config/DruidDBConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/BootdoApplication.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis/user/UserMapper.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/dataSource/DataSourceAop.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/service/menzhen/service/impl/menzhenServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/service/shujuchaxun/service/impl/shujuchaxunServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/common/config/DruidDBConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/BootdoApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/controller/MenZhenController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -159,6 +284,22 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="menzhen-chaxun-portal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="menzhen-chaxun-portal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
@@ -181,9 +322,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,36 +355,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="menzhenchaxun" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="menzhen-chaxun-portal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="menzhen-chaxun-portal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="menzhenchaxun" type="462c0819:PsiDirectoryNode" />
-              <item name="information" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="menzhen-chaxun-portal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="menzhen-chaxun-portal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="menzhenchaxun" type="462c0819:PsiDirectoryNode" />
-              <item name="information" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="menzhen-chaxun-portal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="menzhen-chaxun-portal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,25 +470,25 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7832512" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25869894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30332828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11494253" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.81609195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -381,15 +496,278 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/BootdoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="11" column="78" lean-forward="false" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="157:776" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="1212:1549" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="1579:1590" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="1647:1653" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="1707:2118" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="2203:3026" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="3114:5969" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6011:6786" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6814:6922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/dao/menzhen/menzhenDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/information/menzhen/menzhenMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/AdvisedSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6754">
+          <caret line="357" column="0" lean-forward="false" selection-start-line="357" selection-start-column="0" selection-end-line="357" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="157:1134" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="1667:1987" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="2036:2099" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="2135:2146" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2191:2197" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2239:2250" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2306:2312" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="2373:2467" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="2510:2521" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2546:2552" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2606:2617" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2677:2683" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2721:2732" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2774:2780" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2833:2844" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2875:2881" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2917:2928" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2952:2958" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3040:3188" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="3245:3256" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="3288:3294" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3347:3663" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="3709:4081" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="4132:4143" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="4179:4185" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="4232:4323" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="4378:4674" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="4716:4727" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="4752:4758" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="4804:4890" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="4971:5166" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5218:5412" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5481:6343" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6385:6500" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6584:6925" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="6975:6986" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="7040:7046" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="7106:7882" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="7958:8251" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="8341:8854" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="8902:9006" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="9063:9074" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="9095:9101" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="9170:9254" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="9332:9848" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="9923:10116" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="10156:10459" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="10510:10845" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="10903:11276" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="11383:11784" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="11820:11831" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="11856:11862" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="11927:12028" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="12144:12808" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="12856:13257" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="13353:13425" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="13466:13477" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="13500:13506" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="13537:14029" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14042:14107" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14208:15116" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14329:14421" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14467:14626" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="14657:14672" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="14693:14703" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="14737:14752" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="14782:14792" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="14860:15110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="154:305" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="535:638" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="676:687" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="717:723" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="754:765" ph=" { " />
+            <marker date="1588901608599" expanded="true" signature="784:790" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="837:844" ph="{}" />
+            <marker date="1588901608599" expanded="false" signature="875:886" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="898:904" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="946:1273" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="1300:1311" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="1341:1347" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="1378:1495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="155:1109" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="1166:1173" ph="{}" />
+            <marker date="1588901608599" expanded="true" signature="1227:1374" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="1435:1529" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="1585:1673" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="1735:2151" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="2236:2831" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="2888:2899" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2945:2951" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3010:3021" ph=" { " />
+            <marker date="1588901608599" expanded="true" signature="3069:3075" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="3134:3145" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="3193:3199" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3259:3378" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="3464:3629" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="3700:3711" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="3751:3757" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3855:5435" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5511:5572" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5674:6072" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6180:7150" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="7270:7850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding>
+            <marker date="1588901607055" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901607055" expanded="false" signature="148:569" ph="..." />
+            <marker date="1588901607055" expanded="true" signature="1124:1291" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1170:1285" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1403:1507" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="1450:1465" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="1491:1501" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="1621:1771" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1669:1765" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1803:1810" ph="{}" />
+            <marker date="1588901607055" expanded="false" signature="1874:1885" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="1928:1934" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="2014:2764" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="2840:3140" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="3204:3504" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="3570:3581" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="3612:3618" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="3706:4457" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="4526:4537" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="4573:4579" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="4665:4894" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="4988:5044" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="5154:5642" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="5707:6371" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="6458:6523" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="6586:6833" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="6906:7139" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="7224:7695" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="7756:7917" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="7975:8242" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="8302:8421" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="8481:8600" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="8658:8972" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="9043:9427" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="9480:9726" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="9781:9989" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="10050:10250" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="10345:10812" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="10902:10979" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="11102:12070" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12141:12457" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12269:12379" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="12316:12335" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="12355:12369" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="12531:14010" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12659:13932" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12707:13922" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="14075:15078" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="15160:15848" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="15941:16362" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="16450:16525" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="16645:17419" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="17482:17809" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="17893:18713" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18379:18678" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18485:18664" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18751:18833" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18868:18912" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18949:19045" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="19081:19126" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="19164:19261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/controller/MenZhenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/owneruser/comment/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -397,7 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -413,7 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-28">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2469">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,7 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,15 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1326">
           <caret line="103" column="54" lean-forward="false" selection-start-line="103" selection-start-column="54" selection-end-line="103" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/common/config/DruidDBConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,15 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/BootdoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1088">
           <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-323">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1276">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,22 +894,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <caret line="67" column="21" lean-forward="false" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -573,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,14 +916,296 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/service/menzhen/service/impl/menzhenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/service/shujuchaxun/service/impl/shujuchaxunServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/common/config/DruidDBConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding>
+            <marker date="1588901607055" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901607055" expanded="false" signature="148:569" ph="..." />
+            <marker date="1588901607055" expanded="true" signature="1124:1291" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1170:1285" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1403:1507" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="1450:1465" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="1491:1501" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="1621:1771" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1669:1765" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="1803:1810" ph="{}" />
+            <marker date="1588901607055" expanded="false" signature="1874:1885" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="1928:1934" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="2014:2764" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="2840:3140" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="3204:3504" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="3570:3581" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="3612:3618" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="3706:4457" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="4526:4537" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="4573:4579" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="4665:4894" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="4988:5044" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="5154:5642" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="5707:6371" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="6458:6523" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="6586:6833" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="6906:7139" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="7224:7695" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="7756:7917" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="7975:8242" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="8302:8421" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="8481:8600" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="8658:8972" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="9043:9427" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="9480:9726" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="9781:9989" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="10050:10250" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="10345:10812" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="10902:10979" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="11102:12070" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12141:12457" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12269:12379" ph="{...}" />
+            <marker date="1588901607055" expanded="false" signature="12316:12335" ph=" { " />
+            <marker date="1588901607055" expanded="false" signature="12355:12369" ph=" }" />
+            <marker date="1588901607055" expanded="true" signature="12531:14010" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12659:13932" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="12707:13922" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="14075:15078" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="15160:15848" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="15941:16362" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="16450:16525" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="16645:17419" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="17482:17809" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="17893:18713" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18379:18678" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18485:18664" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18751:18833" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18868:18912" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="18949:19045" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="19081:19126" ph="{...}" />
+            <marker date="1588901607055" expanded="true" signature="19164:19261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="155:1109" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="1166:1173" ph="{}" />
+            <marker date="1588901608599" expanded="true" signature="1227:1374" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="1435:1529" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="1585:1673" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="1735:2151" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="2236:2831" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="2888:2899" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2945:2951" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3010:3021" ph=" { " />
+            <marker date="1588901608599" expanded="true" signature="3069:3075" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="3134:3145" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="3193:3199" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3259:3378" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="3464:3629" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="3700:3711" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="3751:3757" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3855:5435" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5511:5572" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5674:6072" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6180:7150" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="7270:7850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="154:305" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="535:638" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="676:687" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="717:723" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="754:765" ph=" { " />
+            <marker date="1588901608599" expanded="true" signature="784:790" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="837:844" ph="{}" />
+            <marker date="1588901608599" expanded="false" signature="875:886" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="898:904" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="946:1273" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="1300:1311" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="1341:1347" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="1378:1495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/AdvisedSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6754">
+          <caret line="357" column="0" lean-forward="false" selection-start-line="357" selection-start-column="0" selection-end-line="357" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="157:1134" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="1667:1987" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="2036:2099" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="2135:2146" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2191:2197" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2239:2250" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2306:2312" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="2373:2467" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="2510:2521" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2546:2552" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2606:2617" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2677:2683" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2721:2732" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2774:2780" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2833:2844" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2875:2881" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="2917:2928" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="2952:2958" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3040:3188" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="3245:3256" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="3288:3294" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="3347:3663" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="3709:4081" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="4132:4143" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="4179:4185" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="4232:4323" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="4378:4674" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="4716:4727" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="4752:4758" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="4804:4890" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="4971:5166" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5218:5412" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="5481:6343" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6385:6500" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6584:6925" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="6975:6986" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="7040:7046" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="7106:7882" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="7958:8251" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="8341:8854" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="8902:9006" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="9063:9074" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="9095:9101" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="9170:9254" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="9332:9848" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="9923:10116" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="10156:10459" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="10510:10845" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="10903:11276" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="11383:11784" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="11820:11831" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="11856:11862" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="11927:12028" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="12144:12808" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="12856:13257" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="13353:13425" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="13466:13477" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="13500:13506" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="13537:14029" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14042:14107" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14208:15116" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14329:14421" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="14467:14626" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="14657:14672" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="14693:14703" ph=" }" />
+            <marker date="1588901608599" expanded="false" signature="14737:14752" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="14782:14792" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="14860:15110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/LocalMvnRepDubbo/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding>
+            <marker date="1588901608599" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588901608599" expanded="false" signature="157:776" ph="..." />
+            <marker date="1588901608599" expanded="true" signature="1212:1549" ph="{...}" />
+            <marker date="1588901608599" expanded="false" signature="1579:1590" ph=" { " />
+            <marker date="1588901608599" expanded="false" signature="1647:1653" ph=" }" />
+            <marker date="1588901608599" expanded="true" signature="1707:2118" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="2203:3026" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="3114:5969" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6011:6786" ph="{...}" />
+            <marker date="1588901608599" expanded="true" signature="6814:6922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/dao/menzhen/menzhenDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/information/menzhen/menzhenMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/information/controller/MenZhenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="58" column="45" lean-forward="false" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        <state relative-caret-position="415">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/menzhenchaxun/BootdoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>

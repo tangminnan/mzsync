@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.menzhenchaxun.information.dao.shujuchaxun.shujuchaxunDao">
+
+	<select id="getMemberId" resultType="com.menzhenchaxun.information.domain.shujuchaxun.shujuchaxunDO">
+		SELECT S_ME_CI_CustomerID, S_ME_CI_Name,S_ME_CI_Sex,S_ME_CI_Birthday,S_ME_CI_Zone,S_ME_CI_Phone,S_ME_CI_MemberId,S_ME_CI_RegisterDate,S_ME_CI_IdentityCard,S_ME_CI_LevelUpDate
+		FROM S_ME_CustomerInfo WHERE S_ME_CI_MemberId = #{value}
+	</select>
+
+</mapper>
